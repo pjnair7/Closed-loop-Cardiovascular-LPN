@@ -27,7 +27,7 @@ Each folder corresponds to a specific patient case and contains:
 5.	Adjust the simulation time (top pane: “Stop Time”):
 	•	Set a specific duration
 	•	Use Inf to run indefinitely
-	6.	Press Ctrl + T to start the simulation.
+6.	Press Ctrl + T to start the simulation.
 
 Once a simulation has run, the output data is saved in the MATLAB workspace as a struct file named **`out`**
 
