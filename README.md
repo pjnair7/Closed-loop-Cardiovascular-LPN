@@ -2,8 +2,7 @@
 
 This repository contains **lumped parameter models (LPN)** of the cardiovascular system developed in **MATLAB Simulink**. These models are based on the work by **Broomé et al.** ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23842033/)) and have been specifically tuned to represent **patients diagnosed with aortic coarctation**. The tuning is based on **non-invasive and invasive measurements** (e.g., catheterization reports).
 
-The details of this work are part of a research study. The publication outlining the study is available at:  
-[**DOI**](https://doi.org/10.1115/1.4068716)
+The details of this work are part of a research study. The publication outlining the study is available [**here**](https://doi.org/10.1115/1.4068716)
 
 ---
 
